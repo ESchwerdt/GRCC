@@ -1,0 +1,11 @@
+.contact{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+
+.contact ul{
+    padding: 20px;
+    list-style: none;
+}
